@@ -161,6 +161,16 @@ The application allows users to:
 Machine Learning Intern — CodeAlpha
 
 ---
+## Dataset
+
+This project uses the RAVDESS dataset.
+
+Download:
+https://zenodo.org/record/1188976
+
+After downloading, place it inside:
+
+dataset/RAVDESS/
 
 ## 📄 License
 
