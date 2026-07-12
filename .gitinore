@@ -1,0 +1,66 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model Files
+models/*.keras
+models/*.h5
+models/*.pkl
+
+# Temporary files
+*.tmp
+*.temp
+
+# Streamlit cache
+.streamlit/
+
+# Audio cache
+*.wav~
+
+echo "dataset/" >> .gitignore
+echo "models/*.pkl" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo ".ipynb_checkpoints/" >> .gitignore
+
+
+dataset/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.env
+venv/
+.venv/
