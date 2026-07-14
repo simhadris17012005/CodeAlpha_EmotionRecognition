@@ -1,4 +1,9 @@
 # 🎤 Emotion Recognition from Speech
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![NLP](https://img.shields.io/badge/NLP-Text%20Classification-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A Machine Learning & Deep Learning project developed as part of the **CodeAlpha Machine Learning Internship**.
 
